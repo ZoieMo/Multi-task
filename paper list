@@ -5,14 +5,22 @@
 
 2、Adaptively Weighted Multi-task Deep Network for Person Attribute Classification（ACM2017）
 
+论文：http://www.yugangjiang.info/publication/17MM-PersonAttribute.pdf
 
+代码：https://github.com/qiexing/adaptive_weighted_attribute（caffe）
+
+创新点：认为不同任务之间的学习难度和收敛速度不一样，通过分析不同属性之间的相关性，提出一种自适应权值多任务卷积神经网络，利用验证集损失
+
+来调节各个属性任务的权重。
 
 
 3、Multi-tasking learning on MNIST image datasets（ICLR2018）
 
 论文：https://openreview.net/pdf?id=S1PWi_lC-
 
-代码：https://github.com/pochih/MNIST-multitask
+代码：https://github.com/pochih/MNIST-multitask（pytorch）
+
+创新点：将来自不同数据库的数据汇总成一个数据库来训练一个网络，然后将训练得到的网络参数初始化单个任务的网络，以提高在单个数据库上的识别准确率。
 
 
 
