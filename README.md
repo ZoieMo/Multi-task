@@ -1,10 +1,6 @@
 # Multi-task
 
-1、Deep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face Hallucination, IJCAI2018, Junjun Jiang et al. 
-
-论文：
-
-代码：
+1、Deep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face Hallucination, IJCAI2018
 
 2、FSRNet: End-to-End learning face super-resolution with facial priors, CVPR, 2018 Yu Chen et al. 
 
