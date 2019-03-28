@@ -1,6 +1,8 @@
 1、Deep Adaptive Attention for Joint Facial Action Unit Detection and Face Alignment（ECCV2018）
 
+论文：https://arxiv.org/pdf/1803.05588.pdf
 
+代码：https://github.com/ZhiwenShao/JAANet
 
 
 2、Adaptively Weighted Multi-task Deep Network for Person Attribute Classification（ACM2017）
@@ -26,8 +28,8 @@
 
 4、Multi-task convolutional neural network for car attribute recognition（ICSAI2017）
 
-论文：
+论文：https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8248336
 
 代码：无
 
-创新点：应用创新，使用的是普通的多任务网络
+创新点：做了不同属性之间的分布，使用的是常规的多任务网络。
