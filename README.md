@@ -1,5 +1,18 @@
 # Multi-task
 
+论文总集合
+
+1、https://github.com/handong1587/handong1587.github.io/blob/master/_posts/deep_learning/2015-10-09-dl-applications.md
+
+2、https://github.com/YapengTian/Single-Image-Super-Resolution
+
+3、https://github.com/EvelynFan/AWESOME-FER
+
+4、https://github.com/talengu/paper_seacher
+
+
+超分辨率论文：
+
 1、Deep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face Hallucination, IJCAI2018
 [https://arxiv.org/pdf/1806.10726.pdf]
 
@@ -20,6 +33,7 @@
 
 5、A coarse-to-fine face hallucination method by exploiting facial prior knowledge, ICIP2018
 [https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8451122]
+
 
 6、Super-Resolving Very Low-Resolution Face Images with Supplementary Attributes
 [https://basurafernando.github.io/papers/XinYuCVPR18.pdf]
